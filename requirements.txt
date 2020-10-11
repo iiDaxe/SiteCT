@@ -1,0 +1,26 @@
+googlesearch search
+colored 
+re
+random
+colorama 
+re
+requests
+time
+os
+bs4 
+datetime 
+bs4 
+socket
+colored
+time
+sys
+ftplib 
+json
+pyfiglet
+platform
+itertools
+threading
+threading
+uuid
+ssl
+sys
