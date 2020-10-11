@@ -1,0 +1,10 @@
+anonymous
+p@rta.com
+admin
+password
+ftp
+password
+guest
+root
+toor
+test

