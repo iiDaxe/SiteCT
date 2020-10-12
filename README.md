@@ -11,10 +11,10 @@
 [3] -  Scan SQL injection And Exploit.
 
 
-[4] -  Brute Force Linkes page .
+[4] -  Brute force Linkes page .
 
 
-[5] -  FTP Burte Force  .
+[5] -  FTP Brute force  .
 
 
 [6] -  Search phpunit Vuln and Upload Shell .
