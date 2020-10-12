@@ -1468,7 +1468,7 @@ elif Chose == '7':
     print(
         Fore.WHITE +
         "-------------------------------------------------------------------------"
-        + res)
+        )
     #print(color + logo + res)
 
     print(Fore.WHITE, "╦╔╗╔╔═╗╔═╗  ╔═╗╔═╗╔╦╗╦ ╦╦═╗╦╔╗╔╔═╗")
@@ -1482,7 +1482,7 @@ elif Chose == '7':
     print(
         Fore.WHITE +
         "-------------------------------------------------------------------------"
-        + res)
+        )
     target = input(Fore.LIGHTWHITE_EX + "Enter Your  TARGET :")
     Information_Gethring.ipapi_co(target)
     time.sleep(3)
