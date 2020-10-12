@@ -840,7 +840,8 @@ def Path_With_GOOGLE(target):
     except requests.exceptions.HTTPError:
         pass
     if len(Urls) != 0:
-        print(Urls)
+	for Url in Ulrs:
+            print(Fore.Url)
 class Information_Gethring:
     def ipapi_co(target):
 
