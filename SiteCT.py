@@ -841,7 +841,7 @@ def Path_With_GOOGLE(target):
         pass
     if len(Urls) != 0:
 	for Url in Ulrs:
-            print(Fore.Url)
+            print(Fore.WHITE,Url)
 class Information_Gethring:
     def ipapi_co(target):
 
