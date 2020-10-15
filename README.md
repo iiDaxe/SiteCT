@@ -41,3 +41,10 @@
 
 
 By MrDaxe 
+
+Requirements:
+
+
+py -m pip install -r requirements.txt
+
+py siteCT.py
