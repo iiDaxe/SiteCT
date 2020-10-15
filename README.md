@@ -36,12 +36,8 @@
 
 
 
-
 [12] - WordPress Scan AND Exploit .
 
-
-py -m pip install -r requirements.txt
-py siteCT.py
 
 
 By MrDaxe 
