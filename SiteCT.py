@@ -1319,7 +1319,7 @@ def https_http(url):
         pass
     return url
 init()
-print(Fore.RED,"COder By Daxe & BinAl5tabe &spooky")
+print(Fore.RED,"COder By Daxe")
 time.sleep(2)
 system()
 print(Fore.WHITE, "                         __    _               ")
